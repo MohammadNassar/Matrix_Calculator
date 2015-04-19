@@ -4,5 +4,6 @@ This is an Advanced Matrix Calculator that performs the following calculations:
 - Matrix Addition
 - Matrix Subtraction
 - Multiplying a Matrix by Scalar
-- Find Inverse of a Matrix 
+- Finding Inverse of a Matrix 
 - Finding Determinant of a Matrix
+- Finding Traverse of a Matrix

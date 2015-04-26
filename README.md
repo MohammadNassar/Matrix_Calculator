@@ -1,5 +1,7 @@
 # Matrix_Calculator
+
 This is an Advanced Matrix Calculator that performs the following calculations:
+
 - Matrix Multiplication
 - Matrix Addition
 - Matrix Subtraction
